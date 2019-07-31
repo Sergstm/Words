@@ -1,0 +1,47 @@
+#header {
+    text-align: center;
+    background-color: #513d57;
+    min-height: 10vh;
+    align-items: center;
+    /*font-size: calc(10px + 2vmin);*/
+    color: white;
+    /*border: 5px solid red;*/
+}
+
+#nav_bar {
+    margin-bottom: 1%;
+    text-align: center;
+    /*border: 1px solid black;*/
+}
+
+#content {
+    text-align: center;
+    /*border: 1px dotted black;*/
+}
+
+.inp_text {
+    text-align: center;
+}
+
+#add_w, #home, #w_list, #all_w {
+    margin: 2%;
+    padding: 2%;
+    background-color: #fff3f3;
+    /*border: 1px solid black;*/
+}
+
+#play {
+    margin-top: 1%;
+}
+
+#list {
+    margin: 1%;
+    background-color: #d6f9e8;
+    border: 1px solid #ff3bce;
+}
+
+#inp_study {
+    margin: 3%;
+    font-size: 3vh;
+    text-align: center;
+}
